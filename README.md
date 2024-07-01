@@ -61,4 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thank you to Bharat Intern for providing this learning opportunity.
 ```
 
-You can copy this entire block and paste it into your `README.md` file. Make sure to replace `your-username` with your actual GitHub username.
