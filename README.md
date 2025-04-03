@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pradeep1205k/registration-from.git
+   git clone https://github.com/Adarshasps/Registration-Form
    ```
 
 2. Navigate to the project directory:
@@ -56,8 +56,6 @@ Once the server is running, you can access the registration form by navigating t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
 
-- Thank you to Bharat Intern for providing this learning opportunity.
 
 
